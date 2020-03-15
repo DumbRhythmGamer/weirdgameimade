@@ -33,4 +33,4 @@ function OpenWithChrome(strURL)
     WShellChrome.Run strChrome, 1, false
 end function
 
-OpenWithChrome "https://youtu.be/dQw4w9WgXcQ"
+OpenWithChrome "https://youtu.be/dQw4w9WgXcQ?t=1"
